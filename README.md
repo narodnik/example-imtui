@@ -1,3 +1,4 @@
+Example skeleton app for imtui using pkg config to add libbitcoin library.
 
   $ mkdir build
   $ cd build
